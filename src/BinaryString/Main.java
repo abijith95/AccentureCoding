@@ -1,4 +1,4 @@
-package One;
+package BinaryString;
 
 // The Binary number system only uses two digits, 0 and 1 and the number system can be called binary string. You are required to implement the following function:
 // int OperationsBinaryString(char* str);

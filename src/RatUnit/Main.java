@@ -1,4 +1,4 @@
-package Two;
+package RatUnit;
 
 
 // The function accepts two positive integers ‘r’ and ‘unit’ and a positive integer array ‘arr’ of size ‘n’ as its argument ‘r’ represents the number of rats present in an area,
