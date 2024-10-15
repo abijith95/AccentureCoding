@@ -2,7 +2,13 @@ package OperationArray;
 
 import java.util.Scanner;
 
-
+//Write a function that has a arr, an integer named 'c' as it's arguments. The function should return an integer that makes certain operation according to the integer for the first and last element of the array.
+//
+//
+//        If c == 1 // a+b
+//        If c == 2 // a-b
+//        If c == 3// a*b
+//        If c == 4// a/b
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

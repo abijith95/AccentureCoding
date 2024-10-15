@@ -2,6 +2,8 @@ package Prime;
 
 import java.util.Scanner;
 
+// Prime Or Not
+
 public class Main {
     public static void main(String[] args) {
         Scanner sc  = new Scanner(System.in);

@@ -2,6 +2,9 @@ package CountCharacters;
 
 import java.util.Scanner;
 
+//
+//i/p ====> "aaabbbcced"
+//o/p ====>  "a3b3c2e1d1"
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
