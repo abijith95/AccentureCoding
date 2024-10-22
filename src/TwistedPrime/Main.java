@@ -2,7 +2,7 @@ package TwistedPrime;
 
 import java.util.Scanner;
 
-//70 ---- 17 ===> Prime
+//71 ---- 17 ===> Prime
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
